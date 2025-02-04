@@ -1,8 +1,13 @@
 portfolio-website/
 │
-├── index.html       // File HTML utama
+├── index.html       // Halaman utama
+├── about.html       // Halaman "Tentang Saya"
+├── portfolio.html   // Halaman galeri portofolio
+├── blog.html        // Halaman blog/artikel
+├── contact.html     // Halaman kontak
 ├── style.css        // File CSS untuk styling
 ├── script.js        // File JavaScript untuk interaktivitas
-└── assets/          // Folder untuk menyimpan gambar atau file lainnya
-    ├── images/      // Gambar-gambar yang digunakan
-    └── fonts/       // Font kustom (opsional)
+└── assets/          // Folder untuk menyimpan aset
+    ├── images/      // Gambar-gambar
+    ├── fonts/       // Font kustom (opsional)
+    └── patterns/    // Pola latar belakang
