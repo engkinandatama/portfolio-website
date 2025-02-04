@@ -1,0 +1,8 @@
+portfolio-website/
+│
+├── index.html       // File HTML utama
+├── style.css        // File CSS untuk styling
+├── script.js        // File JavaScript untuk interaktivitas
+└── assets/          // Folder untuk menyimpan gambar atau file lainnya
+    ├── images/      // Gambar-gambar yang digunakan
+    └── fonts/       // Font kustom (opsional)
